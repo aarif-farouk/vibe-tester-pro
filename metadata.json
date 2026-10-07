@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets",
+  "description": "An interactive TradingView markets dashboard featuring real-time market indices, stock watchlists, price charts, earnings calendar, and global asset tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
